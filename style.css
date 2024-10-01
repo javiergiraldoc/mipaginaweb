@@ -492,3 +492,33 @@ select:focus {
     margin-left: 100px;
     margin-bottom: 50px
 }
+.resolucion{
+    width: 99%;
+    text-align: center;
+}
+/**movil**/
+@media (max-width: 767px){
+    .desktop{
+        display: none;
+    }
+    .tablet{display: none;}
+    
+}
+/**tablet**/
+@media (min-width: 768px) and (max-width: 990px){
+    .desktop{
+        display: none;
+    }
+    .movil{
+        display: none;
+    }
+}
+/**escritorio**/
+@media (min-width: 991px){
+    .tablet{
+        display: none;
+    }
+    .movil{
+        display: none;
+    }
+}
