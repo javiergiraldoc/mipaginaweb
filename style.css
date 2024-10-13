@@ -113,7 +113,7 @@ body{
 .piedepagina{
     width: 1517px;
     height: 300px;
-    margin-top: 100px;
+    margin-top: 600px;
 }
 .textopie{
     margin-top: -200px;
@@ -497,4 +497,28 @@ select:focus {
     width: 1517px;
     height: 300px;
     margin-top:200px;
+}
+.fondoimagen1{
+    width: 400px;
+    height: 350px;
+    margin-left:  -50px;
+    margin-top: -280px;
+    display: flex;
+    margin-bottom: -300px;
+}
+.fondoimagen2{
+    width: 450px;
+    height: 370px;
+    margin-left:  370px;
+    margin-top: -380px;
+    display: flex;
+    margin-bottom: -300px;
+}
+.fondoimagen3{
+    width: 400px;
+    height: 400px;
+    margin-left:  830px;
+    margin-top: -350px;
+    display: flex;
+    margin-bottom: -500px;
 }
