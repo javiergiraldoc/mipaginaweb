@@ -501,7 +501,7 @@ select:focus {
  Nueva_Entrada_Natalia
 
 .RichardStallman{
-   width: 300px;
+   width: 200px;
    height: 300px; 
    margin-left: 400px;
 }
@@ -530,4 +530,18 @@ select:focus {
     display: flex;
     margin-bottom: -500px;
 }
- main
+.titulorichard{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.parrafostallman{
+    margin-left: 100px;
+}
+.fondoparrafostallman{
+    margin-top: -550px;
+    height: 599px;
+    margin-left: 40px;
+    opacity: 0.3;
+    border-radius: 40px;
+
+}
